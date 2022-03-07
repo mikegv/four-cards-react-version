@@ -1,0 +1,13 @@
+.cardholder{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  #team{
+    border-top: 3px solid red;
+    
+  }
+  #karma{
+    border-top: 3px solid orange;
+    
+  }
