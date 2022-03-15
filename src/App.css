@@ -4,3 +4,8 @@
 body{
   background-color: #dddddd;
 }
+.cardholder{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
