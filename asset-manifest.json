@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/four-cards-react-version/static/css/main.2b722592.css",
-    "main.js": "/four-cards-react-version/static/js/main.410c8174.js",
+    "main.css": "/four-cards-react-version/static/css/main.c833fb86.css",
+    "main.js": "/four-cards-react-version/static/js/main.d1bc1d7f.js",
     "static/js/787.487037cf.chunk.js": "/four-cards-react-version/static/js/787.487037cf.chunk.js",
     "static/media/supervisor.svg": "/four-cards-react-version/static/media/supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
     "index.html": "/four-cards-react-version/index.html",
-    "main.2b722592.css.map": "/four-cards-react-version/static/css/main.2b722592.css.map",
-    "main.410c8174.js.map": "/four-cards-react-version/static/js/main.410c8174.js.map",
+    "main.c833fb86.css.map": "/four-cards-react-version/static/css/main.c833fb86.css.map",
+    "main.d1bc1d7f.js.map": "/four-cards-react-version/static/js/main.d1bc1d7f.js.map",
     "787.487037cf.chunk.js.map": "/four-cards-react-version/static/js/787.487037cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b722592.css",
-    "static/js/main.410c8174.js"
+    "static/css/main.c833fb86.css",
+    "static/js/main.d1bc1d7f.js"
   ]
 }
